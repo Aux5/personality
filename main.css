@@ -1,0 +1,25 @@
+#Header {
+    text-align: center;
+}
+#Strengths {
+    font-weight: bold;
+    text-decoration-line: underline
+}
+body {
+    background-color: aquamarine;
+}
+#Weaknesses {
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+#Things {
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+#famous {
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+body {
+    font-family: fantasy; 
+}
