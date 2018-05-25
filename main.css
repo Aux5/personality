@@ -22,4 +22,9 @@ body {
 }
 body {
     font-family: fantasy; 
+    text-align: center;  
+    
 }
+ul {
+    list-style-type: none;
+  }
